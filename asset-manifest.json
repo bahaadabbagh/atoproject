@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/bahaadabbagh/atoproject/static/css/main.7e077ae0.chunk.css",
-    "main.js": "/bahaadabbagh/atoproject/static/js/main.12c88c3e.chunk.js",
-    "main.js.map": "/bahaadabbagh/atoproject/static/js/main.12c88c3e.chunk.js.map",
+    "main.css": "/bahaadabbagh/atoproject/static/css/main.0931bf3b.chunk.css",
+    "main.js": "/bahaadabbagh/atoproject/static/js/main.e31546f3.chunk.js",
+    "main.js.map": "/bahaadabbagh/atoproject/static/js/main.e31546f3.chunk.js.map",
     "runtime-main.js": "/bahaadabbagh/atoproject/static/js/runtime-main.6cb0fd70.js",
     "runtime-main.js.map": "/bahaadabbagh/atoproject/static/js/runtime-main.6cb0fd70.js.map",
     "static/css/2.83e74ba3.chunk.css": "/bahaadabbagh/atoproject/static/css/2.83e74ba3.chunk.css",
-    "static/js/2.906d3866.chunk.js": "/bahaadabbagh/atoproject/static/js/2.906d3866.chunk.js",
-    "static/js/2.906d3866.chunk.js.map": "/bahaadabbagh/atoproject/static/js/2.906d3866.chunk.js.map",
+    "static/js/2.4d38d261.chunk.js": "/bahaadabbagh/atoproject/static/js/2.4d38d261.chunk.js",
+    "static/js/2.4d38d261.chunk.js.map": "/bahaadabbagh/atoproject/static/js/2.4d38d261.chunk.js.map",
     "index.html": "/bahaadabbagh/atoproject/index.html",
-    "precache-manifest.f5d9ea16d324969679fae1e06f289b98.js": "/bahaadabbagh/atoproject/precache-manifest.f5d9ea16d324969679fae1e06f289b98.js",
+    "precache-manifest.a5e66448f81944d068058b4804c2c3af.js": "/bahaadabbagh/atoproject/precache-manifest.a5e66448f81944d068058b4804c2c3af.js",
     "service-worker.js": "/bahaadabbagh/atoproject/service-worker.js",
     "static/css/2.83e74ba3.chunk.css.map": "/bahaadabbagh/atoproject/static/css/2.83e74ba3.chunk.css.map",
-    "static/css/main.7e077ae0.chunk.css.map": "/bahaadabbagh/atoproject/static/css/main.7e077ae0.chunk.css.map",
-    "static/js/2.906d3866.chunk.js.LICENSE.txt": "/bahaadabbagh/atoproject/static/js/2.906d3866.chunk.js.LICENSE.txt",
+    "static/css/main.0931bf3b.chunk.css.map": "/bahaadabbagh/atoproject/static/css/main.0931bf3b.chunk.css.map",
+    "static/js/2.4d38d261.chunk.js.LICENSE.txt": "/bahaadabbagh/atoproject/static/js/2.4d38d261.chunk.js.LICENSE.txt",
     "static/media/Map.svg": "/bahaadabbagh/atoproject/static/media/Map.2c538ca0.svg",
     "static/media/mdb.css": "/bahaadabbagh/atoproject/static/media/arrow_right.8ef6a08c.svg",
     "static/media/bot.png": "/bahaadabbagh/atoproject/static/media/bot.e8be9a2c.png",
@@ -27,8 +27,8 @@
   "entrypoints": [
     "static/js/runtime-main.6cb0fd70.js",
     "static/css/2.83e74ba3.chunk.css",
-    "static/js/2.906d3866.chunk.js",
-    "static/css/main.7e077ae0.chunk.css",
-    "static/js/main.12c88c3e.chunk.js"
+    "static/js/2.4d38d261.chunk.js",
+    "static/css/main.0931bf3b.chunk.css",
+    "static/js/main.e31546f3.chunk.js"
   ]
 }
