@@ -13,20 +13,20 @@ class NavbarPage extends Component {
   }
   render() {
   return (
-    // <Router>
+    <Router>
     <MDBNavbar sticky="top" color="indigo" dark expand="md" width="100%">
       <MDBNavbarBrand className="logo" >FirngprintJS Pro</MDBNavbarBrand>
       <MDBCollapse id="navbarCollapse3" isOpen={this.state.isOpen} navbar>
       <MDBNavbarNav left >
-        {/* <MDBNavItem ><MDBNavLink to="#" >Demo</MDBNavLink></MDBNavItem>
+        <MDBNavItem ><MDBNavLink to="#" >Demo</MDBNavLink></MDBNavItem>
         <MDBNavItem ><MDBNavLink to="#" >Pricing</MDBNavLink></MDBNavItem>
         <MDBNavItem ><MDBNavLink to="#" >Open-Source</MDBNavLink></MDBNavItem>
         <MDBNavItem ><MDBNavLink to="#" >Docs</MDBNavLink></MDBNavItem>
-        <MDBNavItem  className="startTrial"><MDBNavLink to="#" >Start Trial</MDBNavLink></MDBNavItem> */}
+        <MDBNavItem  className="startTrial"><MDBNavLink to="#" >Start Trial</MDBNavLink></MDBNavItem>
       </MDBNavbarNav>
     </MDBCollapse>
     </MDBNavbar>
-    //  </Router>
+   </Router>
   );
 }
 }

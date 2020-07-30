@@ -27,7 +27,7 @@ export default function HeroPart() {
           </div>
         </Col>
         <Col md="6">
-          <img src={heroImage} width="100%" alt=""></img>
+          <img src={heroImage} width="100%" alt="heroImage"></img>
         </Col>
       </Row>
     </div>

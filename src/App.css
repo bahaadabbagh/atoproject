@@ -44,6 +44,8 @@ display: inline-flex;
   text-decoration: underline;
   /* text-decoration: solid; */
 }
-/* .callToAction{
-  background-color:;
-} */
+
+.callToAction{
+text-align: center;
+padding: 1% 30%
+}
