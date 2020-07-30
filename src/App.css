@@ -1,0 +1,49 @@
+@import url('https://fonts.googleapis.com/css2?family=Miriam+Libre&display=swap');
+.app{
+  background-color: #f4f4f4;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.logo{
+  font-family: 'Miriam Libre', sans-serif;
+  margin-left: 20%;
+}
+
+
+.row{
+  margin-top: 3%;
+  width: 100%;
+/* justify-content: center; */
+}
+
+.heroText{
+  margin-left: 2%;
+}
+
+.companiesText{
+  text-align: center;
+  margin-top: 2%;
+}
+
+.card-img-top{
+  height: 15rem;
+}
+
+.CTA{
+display: inline-flex;
+}
+
+/* .betweenCTA{
+  margin: ;
+} */
+.containera{
+  padding: 0 5% 0 15%;
+  background-color: white;
+}
+.startTrial{
+  text-decoration: underline;
+  /* text-decoration: solid; */
+}
+/* .callToAction{
+  background-color:;
+} */
