@@ -13,7 +13,7 @@ export default function CallToAction() {
           hint="Your Work Email"
           containerClassName="mb-3"
           append={
-            <MDBBtn color="primary" className="m-0 px-3 py-2 z-depth-0">
+            <MDBBtn color="danger" className="m-0 px-3 py-2 z-depth-0">
               Start Trial Today
             </MDBBtn>
           }

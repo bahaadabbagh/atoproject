@@ -6,6 +6,7 @@ import Highlights from "./components/Highlights";
 // import Companies from "./components/Companies";
 import CallToAction from "./components/CallToAction";
 import Testimonials from "./components/Testimonials";
+import Footer from "./components/Footer"
 
 function App() {
   return (
@@ -16,6 +17,7 @@ function App() {
         <CallToAction/>
         <Testimonials />
         {/* <Companies/> */}
+        <Footer />
     </div>
   );
 }
