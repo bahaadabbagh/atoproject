@@ -6,21 +6,21 @@ export default function Testimonials() {
         <div>
             <MDBContainer>
       <section className="team-section text-center my-5">
-          <h2 className="h1-responsive font-weight-bold my-5">
-            Testimonials
-          </h2>
-          <p className="dark-grey-text w-responsive mx-auto mb-5">
+            {/* <h2 className="h1-responsive font-weight-bold my-5">
+              Testimonials
+            </h2> */}
+          {/* <p className="dark-grey-text w-responsive mx-auto mb-5">
             Lorem ipsum dolor sit amet, consectetur adipisicing elit. Fugit,
             error amet numquam iure provident voluptate esse quasi, veritatis
             totam voluptas nostrum quisquam eum porro a pariatur veniam.
-          </p>
+          </p> */}
 
           <MDBRow className="text-center">
             <MDBCol md="4" className="mb-md-0 mb-5">
               {/* <MDBTestimonial> */}
                  {/* <MDBAvatar className="mx-auto"> */}
                   <img
-                    src="https://mdbootstrap.com/img/Photos/Avatars/img%20(1).jpg"
+                    src="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/042013/ebay_logo.png?itok=QLz1bS2p"
                     alt=""
                     className="rounded-circle z-depth-1 img-fluid"
                   />
@@ -29,13 +29,11 @@ export default function Testimonials() {
                   Anna Deynah
                 </h4>
                 <h6 className="font-weight-bold blue-text my-3">
-                  Web Designer
+                  ebay Security Manager
                 </h6>
                 <p className="font-weight-normal dark-grey-text">
                   <MDBIcon className="fa fa-quote-left pr-2" />
-                  Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quod
-                  eos id officiis hic tenetur quae quaerat ad velit ab hic
-                  tenetur.
+                  When it came to online security, we didn't want to take any chances. That's why we chose fingerprintjs.
                 </p>
                 <div className="orange-text">
                   {/* <MDBIcon icon="star" />
@@ -50,7 +48,7 @@ export default function Testimonials() {
               {/* <MDBTestimonial> */}
                 {/* <MDBAvatar className="mx-auto"> */}
                   <img
-                    src="https://mdbootstrap.com/img/Photos/Avatars/img%20(8).jpg"
+                    src="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/082016/untitled-2_11.jpg?itok=eniDwihE"
                     alt=""
                     className="rounded-circle z-depth-1 img-fluid"
                   />
@@ -79,7 +77,7 @@ export default function Testimonials() {
               {/* <MDBTestimonial> */}
                 {/* <MDBAvatar className="mx-auto"> */}
                   <img
-                    src="https://mdbootstrap.com/img/Photos/Avatars/img%20(10).jpg"
+                    src="https://dell.teknik.online/wp-content/uploads/2019/04/dell_logo.png"
                     alt=""
                     className="rounded-circle z-depth-1 img-fluid"
                   />

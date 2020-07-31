@@ -5,8 +5,8 @@ export default function CallToAction() {
         <div className="callToAction">
            {/* <h2>We give you measurable results that has the transparency and adaptability to meet your needs </h2>  */}
            {/* <h2>Don't Be Another Victim Of Account Takeover//We present the solution </h2> */}
-           <h2>Security is Essential to Any Organzation<br/>
-            We present The Easy Solution! </h2>
+           <h2>Security is Essential To Any Organization<br/>
+            We Present The Easy Solution! </h2>
            {/* <h2>It's very Rare When Necessary Things Are This Easy To Get</h2> */}
            {/* <h2>Secure, Easy, And Necessary. Try It Today</h2> */}
            <MDBInputGroup

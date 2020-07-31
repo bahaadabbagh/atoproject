@@ -8,13 +8,13 @@ import map from "../images/Map.svg";
 
 export default function Highlights() {
   return (
-    <div className="containera">
+    <div className="highlightsContainer">
       <Row>
         {" "}
         <h2 className="highlightsHero">
           <strong>
             {" "}
-            5 Ways FingerprintJs Will Defend You Against Account Takeover
+            5 Ways FingerprintJS Will Defend You Against Account Takeover
           </strong>
         </h2>
       </Row>
@@ -33,9 +33,9 @@ export default function Highlights() {
         <Card.Img variant="top" src={map} />
           <Card.Title> GEOLOCATION</Card.Title>
           <Card.Text>
-            Don't allow attackers to hide under fake IPs.
-            {/* Attackers Try to Use Kocal And Trusted IPs. */}Determine where your
-            users are located by checking their FingerprintJs!
+            Don't allow attackers to hide under fake IPs. Determine where your users are located by checking their FingerprintJS.
+                        {/* Attackers Try to Use Kocal And Trusted IPs. */}
+
           </Card.Text>
         </Col>
         <Col md="1"></Col>
@@ -43,7 +43,7 @@ export default function Highlights() {
           <Card.Img variant="top" src={browser} />
           <Card.Title> BROWSER FINGERPRINTING</Card.Title>
           <Card.Text>
-            Leverage of the most advanced browser Fingerprinting in the market by undoubtedly identifying your users everytime
+            Leverage the most advanced browser fingerprinting in the market by undoubtedly identifying your users everytime.
           </Card.Text>
         </Col>
         </Row>
@@ -53,7 +53,9 @@ export default function Highlights() {
           <Card.Img variant="top" src={incognito} />
           <Card.Title> INCOGNITO MODE DETECTION</Card.Title>
           <Card.Text>
-          Incognito mode browsing cannot hide their identity with our advanced browser fingerprinting. 
+          {/* Incognito mode browsing cannot hide their identity with our advanced browser fingerprinting.  */}
+          {/* Don't let hackers hide behind the mask of incognito mode with our advanced browser fingerprinting technology */}
+          Browser fingerprinting means that no one can hide behind the mask of incognito mode.
           </Card.Text>
           </Col>
           <Col md="1"></Col>
@@ -61,8 +63,8 @@ export default function Highlights() {
         <Card.Img variant="top" src={frequency} />
           <Card.Title> FREQUENCY DETECTION</Card.Title>
           <Card.Text>
-          Flag irregular frequency of requests from your website that arise during an attack by analysing against time of day,
-          location and many other factors
+          Flag irregular frequency of requests from your website that arise during an attack by analyzing against time of day,
+          location and many other factors.
           </Card.Text>
         </Col>
       </Row>

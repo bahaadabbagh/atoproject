@@ -14,8 +14,8 @@ function App() {
         <HeroPart />
         <Highlights/>
         <CallToAction/>
-        <Companies/>
         <Testimonials />
+        {/* <Companies/> */}
     </div>
   );
 }

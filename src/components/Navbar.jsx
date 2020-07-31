@@ -15,7 +15,7 @@ class NavbarPage extends Component {
   return (
     <Router>
     <MDBNavbar sticky="top" color="indigo" dark expand="md" width="100%">
-      <MDBNavbarBrand className="logo" >FirngprintJS Pro</MDBNavbarBrand>
+      <MDBNavbarBrand className="logo" >FingerprintJS Pro</MDBNavbarBrand>
       <MDBCollapse id="navbarCollapse3" isOpen={this.state.isOpen} navbar>
       <MDBNavbarNav left >
         <MDBNavItem ><MDBNavLink to="#" >Demo</MDBNavLink></MDBNavItem>
