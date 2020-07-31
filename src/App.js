@@ -10,7 +10,7 @@ import Testimonials from "./components/Testimonials";
 function App() {
   return (
     <div className="app">
-      <Navbar />
+        <Navbar />
         <HeroPart />
         <Highlights/>
         <CallToAction/>
