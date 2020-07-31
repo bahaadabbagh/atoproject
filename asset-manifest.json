@@ -1,25 +1,24 @@
 {
   "files": {
-    "main.css": "/atoproject/static/css/main.aa33d5e0.chunk.css",
-    "main.js": "/atoproject/static/js/main.ec625b5f.chunk.js",
-    "main.js.map": "/atoproject/static/js/main.ec625b5f.chunk.js.map",
+    "main.css": "/atoproject/static/css/main.c0a9b65a.chunk.css",
+    "main.js": "/atoproject/static/js/main.a403fd8c.chunk.js",
+    "main.js.map": "/atoproject/static/js/main.a403fd8c.chunk.js.map",
     "runtime-main.js": "/atoproject/static/js/runtime-main.d09f3930.js",
     "runtime-main.js.map": "/atoproject/static/js/runtime-main.d09f3930.js.map",
     "static/css/2.63298eb6.chunk.css": "/atoproject/static/css/2.63298eb6.chunk.css",
-    "static/js/2.23e4b71e.chunk.js": "/atoproject/static/js/2.23e4b71e.chunk.js",
-    "static/js/2.23e4b71e.chunk.js.map": "/atoproject/static/js/2.23e4b71e.chunk.js.map",
+    "static/js/2.f7f84c28.chunk.js": "/atoproject/static/js/2.f7f84c28.chunk.js",
+    "static/js/2.f7f84c28.chunk.js.map": "/atoproject/static/js/2.f7f84c28.chunk.js.map",
     "index.html": "/atoproject/index.html",
-    "precache-manifest.7509ef3b4d946273073ca0e3b920d047.js": "/atoproject/precache-manifest.7509ef3b4d946273073ca0e3b920d047.js",
+    "precache-manifest.0ea8c7de23af1eab56ddd88aed46fb8e.js": "/atoproject/precache-manifest.0ea8c7de23af1eab56ddd88aed46fb8e.js",
     "service-worker.js": "/atoproject/service-worker.js",
     "static/css/2.63298eb6.chunk.css.map": "/atoproject/static/css/2.63298eb6.chunk.css.map",
-    "static/css/main.aa33d5e0.chunk.css.map": "/atoproject/static/css/main.aa33d5e0.chunk.css.map",
-    "static/js/2.23e4b71e.chunk.js.LICENSE.txt": "/atoproject/static/js/2.23e4b71e.chunk.js.LICENSE.txt",
+    "static/css/main.c0a9b65a.chunk.css.map": "/atoproject/static/css/main.c0a9b65a.chunk.css.map",
+    "static/js/2.f7f84c28.chunk.js.LICENSE.txt": "/atoproject/static/js/2.f7f84c28.chunk.js.LICENSE.txt",
     "static/media/Map.svg": "/atoproject/static/media/Map.2c538ca0.svg",
     "static/media/mdb.css": "/atoproject/static/media/arrow_right.8ef6a08c.svg",
     "static/media/ato.jpg": "/atoproject/static/media/ato.be2b1588.jpg",
     "static/media/bot.png": "/atoproject/static/media/bot.e8be9a2c.png",
     "static/media/browser.svg": "/atoproject/static/media/browser.981fd482.svg",
-    "static/media/companies.jpg": "/atoproject/static/media/companies.3f1ca647.jpg",
     "static/media/all.min.css": "/atoproject/static/media/fa-solid-900.ee09ad75.woff",
     "static/media/frequency.svg": "/atoproject/static/media/frequency.f3d3958c.svg",
     "static/media/incognito.svg": "/atoproject/static/media/incognito.dd08f4f0.svg"
@@ -27,8 +26,8 @@
   "entrypoints": [
     "static/js/runtime-main.d09f3930.js",
     "static/css/2.63298eb6.chunk.css",
-    "static/js/2.23e4b71e.chunk.js",
-    "static/css/main.aa33d5e0.chunk.css",
-    "static/js/main.ec625b5f.chunk.js"
+    "static/js/2.f7f84c28.chunk.js",
+    "static/css/main.c0a9b65a.chunk.css",
+    "static/js/main.a403fd8c.chunk.js"
   ]
 }
