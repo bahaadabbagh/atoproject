@@ -22,7 +22,7 @@ export default function Testimonials() {
               <p className="font-weight-normal dark-grey-text">
                 <MDBIcon className="fa fa-quote-left pr-2" />
                 When it came to online security, we didn't want to take any
-                chances. That's why we chose fingerprintjs.
+                chances. That's why we chose FingerprintJS.
               </p>
               <div className="orange-text"></div>
             </MDBCol>
@@ -36,7 +36,7 @@ export default function Testimonials() {
               <h6 className="font-weight-bold blue-text my-3">Booking.com Product Director</h6>
               <p className="font-weight-normal dark-grey-text">
                 <MDBIcon className="fa fa-quote-left pr-2" />
-                Being an online business today means that you will be handling prevlidged information. fingerprintjs helps us make sure they stay secure
+                Being an online business today means that you will be handling privileged information. FingerprintJS helps us make sure this information stays secure.
               </p>
               <div className="orange-text"></div>
             </MDBCol>
@@ -52,7 +52,7 @@ export default function Testimonials() {
               <h6 className="font-weight-bold blue-text my-3">Dell CEO :D</h6>
               <p className="font-weight-normal dark-grey-text">
                 <MDBIcon className="fa fa-quote-left pr-2" />
-                fingerprintjs provides us with transparent  measurable results with the adaptability to meet our needs
+                FingerprintJS provides us with transparent and measurable results with the adaptability to meet our needs.
               </p>
               <div className="orange-text"></div>
             </MDBCol>

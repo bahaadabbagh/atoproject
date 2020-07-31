@@ -9,7 +9,7 @@ const FooterPage = () => {
           <MDBCol  md="4">
             {/* <h5 className="title">Footer Content</h5> */}
             <h3>
-              Subscribe to our newsletter and stay updated on fingerprinting technology and our news 
+              Subscribe to our newsletter and stay updated on fingerprinting technology and our latest news 
             </h3>
             <MDBInputGroup
           hint="Your Email"
@@ -37,7 +37,7 @@ const FooterPage = () => {
           <MDBCol className="footerCol" md="4">
             <h5 className="title">Legal</h5>
               <p className="list-unstyled">
-                <a href="#!">Coockies Policy</a>
+                <a href="#!">Cookies Policy</a>
               </p>
               <p className="list-unstyled">
                 <a href="#!">Privacy Policy</a>

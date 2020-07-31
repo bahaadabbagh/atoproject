@@ -18,8 +18,8 @@ export default function HeroPart() {
              </Badge>!
              </strong>
           </h1>
-          <h4> Account takeover attacks can affect any organization with a login process.</h4>
-          <h4>Apply the industries leading fingerprint technology against account takeover with 99.5% accuracy</h4>
+          <h5> Account takeover attacks can affect any organization with a login process.</h5>
+          <h5>Apply the industry's leading fingerprint technology against account takeover with 99.5% accuracy</h5>
           {/* <h2>99.5 accuracy and the most comprehensive fingerprint security</h2> */}
           <div >
             <Button className="CTA" variant="danger">10 day free trial</Button>
