@@ -3,8 +3,8 @@ import { MDBContainer, MDBRow, MDBCol, MDBIcon } from "mdbreact";
 
 export default function Testimonials() {
   return (
-    <div>
-      <MDBContainer className="testimonialsContainer">
+    <div className="testimonialsContainer"  >
+      <MDBContainer >
         <section className="team-section text-center my-5">
           <MDBRow className="text-center">
             <MDBCol md="3" className="mb-md-0 mb-5" width="100%">
