@@ -3,7 +3,7 @@ import "./App.css";
 import HeroPart from "./components/HeroPart";
 import Navbar from "./components/Navbar";
 import Highlights from "./components/Highlights";
-import Companies from "./components/Companies";
+// import Companies from "./components/Companies";
 import CallToAction from "./components/CallToAction";
 import Testimonials from "./components/Testimonials";
 
