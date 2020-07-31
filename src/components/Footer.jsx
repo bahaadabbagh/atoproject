@@ -4,13 +4,13 @@ import { MDBCol, MDBContainer, MDBRow, MDBFooter, MDBInputGroup, MDBBtn } from "
 const FooterPage = () => {
   return (
     <MDBFooter color="blue" className="font-small pt-4 mt-4">
-      <MDBContainer fluid className="text-center text-md-left">
+      <MDBContainer  className="text-center text-md-left">
         <MDBRow>
           <MDBCol  md="4">
             {/* <h5 className="title">Footer Content</h5> */}
-            <h3>
-              Subscribe to our newsletter and stay updated on fingerprinting technology and our latest news 
-            </h3>
+            <h5>
+              Subscribe to our newsletter and stay updated on fingerprinting technology. 
+            </h5>
             <MDBInputGroup
           hint="Your Email"
           containerClassName="mb-3"
@@ -21,6 +21,7 @@ const FooterPage = () => {
           </MDBCol>
           <MDBCol className="footerCol" md="4">
             <h5 className="title">Popular Links</h5>
+            <div className="footerLinks">
               <p className="list-unstyled">
                 <a href="#!">New Release Features</a>
               </p>
@@ -33,9 +34,11 @@ const FooterPage = () => {
               <p className="list-unstyled">
                 <a href="#!">Blog</a>
               </p>
+              </div>
           </MDBCol>
           <MDBCol className="footerCol" md="4">
             <h5 className="title">Legal</h5>
+            <div className="footerLinks">
               <p className="list-unstyled">
                 <a href="#!">Cookies Policy</a>
               </p>
@@ -48,6 +51,7 @@ const FooterPage = () => {
               <p className="list-unstyled">
                 <a href="#!">support@fingerprintjs.com</a>
               </p>
+              </div>
           </MDBCol>
         </MDBRow>
       </MDBContainer>

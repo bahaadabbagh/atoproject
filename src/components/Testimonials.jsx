@@ -4,10 +4,10 @@ import { MDBContainer, MDBRow, MDBCol, MDBIcon } from "mdbreact";
 export default function Testimonials() {
   return (
     <div>
-      <MDBContainer>
+      <MDBContainer className="testimonialsContainer">
         <section className="team-section text-center my-5">
           <MDBRow className="text-center">
-            <MDBCol md="4" className="mb-md-0 mb-5">
+            <MDBCol md="3" className="mb-md-0 mb-5" width="100%">
               <img
                 src="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/042013/ebay_logo.png?itok=QLz1bS2p"
                 alt=""
@@ -26,7 +26,8 @@ export default function Testimonials() {
               </p>
               <div className="orange-text"></div>
             </MDBCol>
-            <MDBCol md="4" className="mb-md-0 mb-5">
+            <MDBCol md="1"></MDBCol>
+            <MDBCol md="3" className="mb-md-0 mb-5" width="100%">
               <img
                 src="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/082016/untitled-2_11.jpg?itok=eniDwihE"
                 alt=""
@@ -40,7 +41,8 @@ export default function Testimonials() {
               </p>
               <div className="orange-text"></div>
             </MDBCol>
-            <MDBCol md="4">
+            <MDBCol md="1"></MDBCol>
+            <MDBCol md="3" className="mb-md-0 mb-5" width="100%">
               <img
                 src="https://dell.teknik.online/wp-content/uploads/2019/04/dell_logo.png"
                 alt=""

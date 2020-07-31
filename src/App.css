@@ -6,9 +6,15 @@
   font-family: 'Roboto', sans-serif;
 }
 
+.heroContainer{
+  margin: 5% 0;
+}
+.nav-item{
+  margin-right: 1.6rem;
+}
 .logo{
   font-family: 'Miriam Libre', sans-serif;
-  margin-left: 20%;
+  margin-left: 5%;
 }
 
 
@@ -19,7 +25,7 @@
 }
 
 .heroText{
-  margin-left: 2%;
+  margin-left: 5%;
   padding-top: 4%;
 }
 
@@ -41,29 +47,36 @@ display: inline-flex;
   margin: ;
 } */
 .highlightsContainer{
-  padding: 0 5% 0 15%;
+  padding: 5% 4% 5% 7%;
   background-color: white;
 }
-.startTrial{
-  text-decoration: underline;
-  /* text-decoration: solid; */
+
+.card-title{
+  margin-top: 10%;
 }
 
 .callToAction{
-  margin: 4% 0;
+  margin: 6% 0;
   text-align: center;
   padding: 1% 30%;
+}
+.testimonialsContainer{
+  margin: 5% 0;
 }
 .mb-3{
   margin-top: 4%;
 }
 .highlightsHero{
-  margin-top: 2%;
+  margin-top: 4% 0;
+  text-align: start;
+}
+.hihglightSubHero{
+  margin-top: 1%;
+}
+.footerCol{
   text-align: center;
 }
 
-.footerCol{
-  /* display: flex;
-  justify-content: center; */
-  text-align: center;
+.footerLinks{
+  padding: 4% 0;
 }
